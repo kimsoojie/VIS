@@ -1,7 +1,10 @@
-## install
-cd vis
+## Install
+
+cd vis 
+
 source install.sh
 
-## run
+## Run
+
 streamlit run app.py
 
