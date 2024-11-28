@@ -1,11 +1,11 @@
-## Install
+## 1.Install
 
 ```
 cd VIS
 source install.sh
 ```
 
-## Run
+## 2.Run
 
 ```
 conda activate vis
